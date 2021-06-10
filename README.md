@@ -1,1 +1,1 @@
-# next-js-hello-world
+# Next js hello world
